@@ -1,6 +1,7 @@
 # gml2json
 
-Convert gml format to json format via jison.
+Convert graph modeling language (gml) format to json format via jison.
+This is **not** intended for geographical markup language. That is a different gml.
 
 
 # Usage
